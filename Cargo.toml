@@ -1,0 +1,10 @@
+[package]
+name = "cargo-binaries"
+description = "Show cargo binary package names in the current workspace"
+license = "MIT"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.97"
+cargo_metadata = "0.19.2"
