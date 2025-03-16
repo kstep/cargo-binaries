@@ -1,8 +1,10 @@
 [package]
 name = "cargo-binaries"
 description = "Show cargo binary package names in the current workspace"
+repository = "https://github.com/kstep/cargo-binaries"
+readme = "README.md"
 license = "MIT"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 
 [dependencies]
